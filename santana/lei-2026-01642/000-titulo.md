@@ -1,0 +1,3 @@
+# LEI Nº 1642, DE 17 DE JULHO DE 2026.
+INSTITUI DIRETRIZES PARA A TRIAGEM PRECOCE DO TRANSTORNO DO ESPECTRO AUTISTA (TEA) E OUTRAS ALTERAÇÕES DO DESENVOLVIMENTO INFANTIL NO MUNICIPIO DE SANTANA E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO MUNICIPAL DE SANTANA, no uso de suas atribuições legais, que lhe confere o inciso III, do artigo 48 da Lei Orgânica do Município de Santana, faz saber que a Câmara de Vereadores APROVOU e eu SANCIONO a seguinte lei:
