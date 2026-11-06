@@ -1,0 +1,215 @@
+{
+ "country": "BR-AP-MUNICIPAL",
+ "acts": [
+  {
+   "slug": "santana/lei-2026-01650",
+   "unit": "santana",
+   "short": "Lei 1650/2026",
+   "title": "Lei nº 1.650, de 15 de setembro de 2026",
+   "url": "https://sapl.santana.ap.leg.br/norma/1645",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 4,
+     "source_url": "https://sapl.santana.ap.leg.br/media/sapl/public/normajuridica/2026/1645/lei_no_1650_2026_utilidade_publica_ass_ciclismo_pedal_sem_destino-1.pdf",
+     "sha256": "ad96e9cde3af133c63fbfecebd582c01eed5fab5f2753fbc2b04f73b60a47fd6"
+    }
+   ]
+  },
+  {
+   "slug": "santana/lc-2026-00088",
+   "unit": "santana",
+   "short": "LC 88/2026",
+   "title": "Lei Complementar nº 88, de 11 de setembro de 2026",
+   "url": "https://sapl.santana.ap.leg.br/norma/1643",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 3,
+     "source_url": "https://sapl.santana.ap.leg.br/media/sapl/public/normajuridica/2026/1643/lei_complementar_no_88-2026_altera_art_13_da_gcms.pdf",
+     "sha256": "6c93d48bfedf772568ee9938bcfe079ec64ff8482af713c2d13a8037ad8065de"
+    }
+   ]
+  },
+  {
+   "slug": "santana/lei-2026-01647",
+   "unit": "santana",
+   "short": "Lei 1647/2026",
+   "title": "Lei nº 1.647, de 28 de agosto de 2026",
+   "url": "https://sapl.santana.ap.leg.br/norma/1641",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 4,
+     "source_url": "https://sapl.santana.ap.leg.br/media/sapl/public/normajuridica/2026/1641/lei_no_1647_2026_renomeacao_da_rua_a1.pdf",
+     "sha256": "38007a5c357da1c01b14d58db7cfcdc7a8c98cc773082a507e9d31eaa65d813a"
+    }
+   ]
+  },
+  {
+   "slug": "santana/lei-2026-01646",
+   "unit": "santana",
+   "short": "Lei 1646/2026",
+   "title": "Lei nº 1.646, de 18 de agosto de 2026",
+   "url": "https://sapl.santana.ap.leg.br/norma/1639",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 7,
+     "source_url": "https://sapl.santana.ap.leg.br/media/sapl/public/normajuridica/2026/1639/lei_no_1646_parcelamento_de_debitos_previdenciarios.pdf",
+     "sha256": "79c6222ecfd3ef066338cc43b05eaae4c18eb4ae10a59b73b5bc46b63a0d8c7e"
+    }
+   ]
+  },
+  {
+   "slug": "santana/lei-2026-01645",
+   "unit": "santana",
+   "short": "Lei 1645/2026",
+   "title": "Lei nº 1.645, de 18 de agosto de 2026",
+   "url": "https://sapl.santana.ap.leg.br/norma/1642",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 4,
+     "source_url": "https://sapl.santana.ap.leg.br/media/sapl/public/normajuridica/2026/1642/lei_no_1645_2026_utili-pub-prospectiva-inovador.pdf",
+     "sha256": "8a8f985bae6504635d71180c6e62072a60a8ace8250183bf2429cee7f6796857"
+    }
+   ]
+  },
+  {
+   "slug": "santana/lei-2026-01642",
+   "unit": "santana",
+   "short": "Lei 1642/2026",
+   "title": "Lei nº 1.642, de 17 de julho de 2026",
+   "url": "https://sapl.santana.ap.leg.br/norma/1636",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 7,
+     "source_url": "https://sapl.santana.ap.leg.br/media/sapl/public/normajuridica/2026/1636/lei_no_1642_2026_triagem_precoce_do_tea.pdf",
+     "sha256": "88397398532d0f2ff159a7876c367df91f04aea8a9672e4e3852a2dbda5e4a88"
+    }
+   ]
+  },
+  {
+   "slug": "santana/lei-2026-01641",
+   "unit": "santana",
+   "short": "Lei 1641/2026",
+   "title": "Lei nº 1.641, de 17 de julho de 2026",
+   "url": "https://sapl.santana.ap.leg.br/norma/1630",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 11,
+     "source_url": "https://sapl.santana.ap.leg.br/media/sapl/public/normajuridica/2026/1630/lei_no_1641_26-cabeamento.pdf",
+     "sha256": "8b3e6f7c63d493f2eef38b01cbb8c95b66f17789eb79fc446a7380c3111a4ca1"
+    }
+   ]
+  },
+  {
+   "slug": "santana/lei-2026-01634",
+   "unit": "santana",
+   "short": "Lei 1634/2026",
+   "title": "Lei nº 1.634, de 11 de junho de 2026",
+   "url": "https://sapl.santana.ap.leg.br/norma/1624",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 8,
+     "source_url": "https://sapl.santana.ap.leg.br/media/sapl/public/normajuridica/2026/1624/lei_no_1634_de_11_de_junho_de_2026.pdf",
+     "sha256": "9dd7ee76cdb924a443702be94c0b47dc167f3ddd5d3b7c4a7d040a2712ba5cd9"
+    }
+   ]
+  },
+  {
+   "slug": "santana/lei-2026-01633",
+   "unit": "santana",
+   "short": "Lei 1633/2026",
+   "title": "Lei nº 1.633, de 11 de junho de 2026",
+   "url": "https://sapl.santana.ap.leg.br/norma/1623",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 5,
+     "source_url": "https://sapl.santana.ap.leg.br/media/sapl/public/normajuridica/2026/1623/lei_no_1633_26_dispoe_sobre_a_denominacao_da_sala_de_teatro_experimental_do_municipio_de_santana_com_o_nome_de_sala_de_teatro_experimental_edisvan_soares_pereira_.pdf",
+     "sha256": "6ff0f3448a4b13790fcba59561149866ea6cece9d9e54521d676412e611def6b"
+    }
+   ]
+  },
+  {
+   "slug": "santana/lei-2026-01631",
+   "unit": "santana",
+   "short": "Lei 1631/2026",
+   "title": "Lei nº 1.631, de 11 de junho de 2026",
+   "url": "https://sapl.santana.ap.leg.br/norma/1621",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 6,
+     "source_url": "https://sapl.santana.ap.leg.br/media/sapl/public/normajuridica/2026/1621/lei-n1.631-26_institui_o_dia_municipal_de_luto_e_memoria_as_mulheres_vitimas_de_feminicidio_no_municipio_de_santana_j_e_da_outras_providencias_.pdf",
+     "sha256": "449682f4165cbc62860dd760a8313a49d124abb64676240bbfe0a3345c631edd"
+    }
+   ]
+  },
+  {
+   "slug": "santana/lei-2026-01632",
+   "unit": "santana",
+   "short": "Lei 1632/2026",
+   "title": "Lei nº 1.632, de 9 de junho de 2026",
+   "url": "https://sapl.santana.ap.leg.br/norma/1622",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 4,
+     "source_url": "https://sapl.santana.ap.leg.br/media/sapl/public/normajuridica/2026/1622/lei_no_1632_de_09_de_junho_de_2026.pdf",
+     "sha256": "47733708fde9aa751855cd672356985c80da728ee8af5589151c9469e1d27f67"
+    }
+   ]
+  },
+  {
+   "slug": "santana/lei-2026-01622",
+   "unit": "santana",
+   "short": "Lei 1622/2026",
+   "title": "Lei nº 1.622, de 31 de março de 2026",
+   "url": "https://sapl.santana.ap.leg.br/norma/1608",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 14,
+     "source_url": "https://sapl.santana.ap.leg.br/media/sapl/public/normajuridica/2026/1608/lei-1622_26-alt-conselho-da-mulher.pdf",
+     "sha256": "f6927342c813e6a2b7aaf7684a324c15648ec872e6b329656fa4bb2543fcf26c"
+    }
+   ]
+  },
+  {
+   "slug": "santana/lc-2026-00076",
+   "unit": "santana",
+   "short": "LC 76/2026",
+   "title": "Lei Complementar nº 76, de 5 de março de 2026",
+   "url": "https://sapl.santana.ap.leg.br/norma/1597",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 6,
+     "source_url": "https://sapl.santana.ap.leg.br/media/sapl/public/normajuridica/2026/1597/lei_complementar_no_076-2026_criacao_semam.pdf",
+     "sha256": "05af0dcf25d2f8b68d6b79cc44da1334b44b4a954b2a148d19cfc6be2de93ce9"
+    }
+   ]
+  },
+  {
+   "slug": "santana/lei-2025-01611",
+   "unit": "santana",
+   "short": "Lei 1611/2025",
+   "title": "Lei nº 1.611, de 27 de novembro de 2025",
+   "url": "https://sapl.santana.ap.leg.br/norma/1571",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 4,
+     "source_url": "https://sapl.santana.ap.leg.br/media/sapl/public/normajuridica/2025/1571/lei-1611_25-inclui-no-calend-o-dia-nossa-senhora-da-piedade.pdf",
+     "sha256": "ec7c1771eef6edf0afb6d2bddc54a947df0a1d9b9fb54560be8557295bbce260"
+    }
+   ]
+  }
+ ]
+}

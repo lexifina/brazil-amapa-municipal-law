@@ -1,0 +1,24 @@
+{
+ "parts": {
+  "santana--30-leis-001.json": {
+   "acts": [
+    "santana/lc-2026-00076",
+    "santana/lc-2026-00088",
+    "santana/lei-2025-01611",
+    "santana/lei-2026-01622",
+    "santana/lei-2026-01631",
+    "santana/lei-2026-01632",
+    "santana/lei-2026-01633",
+    "santana/lei-2026-01634",
+    "santana/lei-2026-01641",
+    "santana/lei-2026-01642",
+    "santana/lei-2026-01645",
+    "santana/lei-2026-01646",
+    "santana/lei-2026-01647",
+    "santana/lei-2026-01650"
+   ],
+   "sha256": "66ec627b38794d4d2ac614011c42ed2f3c256be82f81e3b9842e4defdd41260b"
+  }
+ },
+ "schema": 1
+}

@@ -1,0 +1,17 @@
+{
+ "country": "BR-AP-MUNICIPAL",
+ "name": "Amapá: municipal chambers",
+ "tz": "America/Belem",
+ "future_branch": "futuro",
+ "publisher": "Câmaras Municipais de Amapá (SAPL)",
+ "units": [
+  {
+   "id": "santana",
+   "folder": "santana",
+   "name": "Santana",
+   "code": "BR-AP-SANTANA",
+   "official_code": "1600600",
+   "source": "sapl.santana.ap.leg.br"
+  }
+ ]
+}
