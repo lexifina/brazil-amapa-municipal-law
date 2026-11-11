@@ -1,0 +1,21 @@
+{
+"layout": "<kind>/<year>/<number>",
+"since": "2026-11-11",
+"note": "Act folders before the layout move were named by the act id (slug); paths maps each id to its folder. Ids not placed by the rule keep their folder.",
+"paths": {
+"santana/lc-2026-00076": "lc/2026/00076",
+"santana/lc-2026-00088": "lc/2026/00088",
+"santana/lei-2025-01611": "lei/2025/01611",
+"santana/lei-2026-01622": "lei/2026/01622",
+"santana/lei-2026-01631": "lei/2026/01631",
+"santana/lei-2026-01632": "lei/2026/01632",
+"santana/lei-2026-01633": "lei/2026/01633",
+"santana/lei-2026-01634": "lei/2026/01634",
+"santana/lei-2026-01641": "lei/2026/01641",
+"santana/lei-2026-01642": "lei/2026/01642",
+"santana/lei-2026-01645": "lei/2026/01645",
+"santana/lei-2026-01646": "lei/2026/01646",
+"santana/lei-2026-01647": "lei/2026/01647",
+"santana/lei-2026-01650": "lei/2026/01650"
+}
+}
